@@ -21,7 +21,7 @@ function sum( numbers ){
 
 
 function multiply( numbers ){
- 	var result = 0;
+ 	var result = 1;
  	for(var i=0; i<numbers.length; i++){
  		result *= numbers[i];
  		console.log(numbers[i]);
